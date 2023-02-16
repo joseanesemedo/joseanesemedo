@@ -19,3 +19,19 @@ Here are some ideas to get you started:
    ![](https://media.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif)
 <!--    [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/your-work)](https://codepen.io/your-work)
  -->
+ 
+ # Welcome!
+## Let me present a little about myself :D
+
+Full-Stack focused in Ruby on Rails | Software engineer :robot:
+
+Lover of Technology and coding :heart:
+
+
+
+## About me 
+
+ [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/your-work)](https://codepen.io/your-work)
+
+- Thanks for visiting. 
+- Enjoy it!! o/
