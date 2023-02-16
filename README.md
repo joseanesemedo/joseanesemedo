@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+
    ![](https://media.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif)
    
 <!--    [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/your-work)](https://codepen.io/your-work)
