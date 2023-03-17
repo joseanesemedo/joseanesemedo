@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <!--    [![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/your-work)](https://codepen.io/your-work)
  -->
  
- ***
  
 <div>
    <a href="https://github.com/joseanesemedo">
