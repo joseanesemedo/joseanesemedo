@@ -21,14 +21,14 @@ Here are some ideas to get you started:
  -->
  
 
-#Stats
+## Stats
 
 <div>
    <a href="https://github.com/joseanesemedo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseanesemedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-#Languages   
+## Languages   
  
 <div>
    <a href="https://github.com/joseanesemedo">
