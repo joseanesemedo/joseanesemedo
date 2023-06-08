@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Languages    -->
- 
- ## Hi. I'm a frontend developer
- 
+
 <div>
    <a href="https://github.com/joseanesemedo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseanesemedo&layout=compact&langs_count=7&theme=tokyonight"/>
