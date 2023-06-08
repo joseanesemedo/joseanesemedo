@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## Languages    -->
  
- Hi. I'm a frontend developer
+ ## Hi. I'm a frontend developer
  
 <div>
    <a href="https://github.com/joseanesemedo">
