@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## Languages    -->
 
-<div>
+<!--<div>
    <a href="https://github.com/joseanesemedo">
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joseanesemedo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-   <!--<img align="center" alt="SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">-->
-   <!--<img align="center" alt="SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">-->
 </div>
+ -->
  
